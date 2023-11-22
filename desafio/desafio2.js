@@ -26,4 +26,4 @@ let vitorias = 70;
 let derrotas = 20;
 
 let { saldoVitorias, nivel } = calcularNivel(vitorias, derrotas);
-console.log(`O Herói tem saldo de ${saldoVitorias} está no nível de ${nivel}`);
+console.log('O Herói tem saldo de ${saldoVitorias} está no nível de ${nivel}');
